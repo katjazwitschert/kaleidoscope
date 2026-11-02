@@ -1,5 +1,6 @@
 ---
 title: Kaleidoscope
 ---
+Dies wird mein [[Digital Garden|digitaler Garten]].
 
-Dies ist eine neue Seite.
+Mehr folgt in Kürze.

@@ -1,0 +1,1 @@
+Ein digitaler Garten ist eine Sammlung von Ideen und Gedanken, die wie Pflanzen in einem Garten wachsen können.
